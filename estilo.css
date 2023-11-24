@@ -1,1 +1,32 @@
-
+body {
+    background-color:#FFC0CB;}
+#titulo  {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(249, 29, 117)}
+.titulo {
+    text-align: center;
+    color: rgb(51, 3, 27))(255, 0, 174);
+    font-size: 20px;
+}
+         body {
+    background-color:#FFC0CB;}
+#banner {
+    width: 40%;
+    margin: 20px;px;
+    padding: 5px;}
+#titulo{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(63, 3, 43)
+}
+.texto {
+    text-align: center;
+    color: rgb(188, 10, 108);
+    font-size: 20px;
+}
+.titulo{
+    text-align:center;
+    background-image: linear-gradient(#FF00FF,#DA70D6);
+    color:#C71585 ;
+}
