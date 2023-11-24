@@ -1,1 +1,42 @@
+ <!DOCTYPE html>
+ <html lang="pt-br">
+ <head>
+      <meta charset="UTF-8">
+      <title> <b> "CONFIGUR'ARTE" <b>   </title>
+      <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+     <section class="titulo">  
+        <h1 id="titulo"> <b>CONFIGUR'ARTE<b> 
+        <p>Práticas Artísticas, expressivas e poéticas em sala de aula
+     <div class="banner">  <img id="banner"   src="arte.jpg" alt=>
+     </div>   </section>
+     <section class="conteudo">
+          <div class="texto"> 
 
+        <p class="texto" > <b> CONFIGUR'ARTE <b> </h1>
+       
+           </p>Seja bem vinda (o)! Este site contém produções artísticas realizadas em sala de aula, no Colégio Estadual do Campo de Palmeirinha, com ênfase nas práticas artísticas da turma do 2ºB, no ano de 2023! 
+           
+           <p>Sou a professora Rafaelle Crissi e trabalho com o componente curricular de Arte há 8 anos. Sou licenciada em Arte Educação, especializada em Educação Especial e meu primeiro contato com a programação foi neste ano de 2023 
+com o curso de Formadores em Pensamento Computacional, nas 3 Jornadas deste ano. Portanto, o site contará com projetos, trabalhos e pesquisas que buscam relacionar as disciplinas de Arte e Pensamento Computacional.
+
+       <p> Este site é uma extensão das práticas artísticas realizadas no cotidiano escolar e também um projeto em desenvolvimento para o curso de Formadores em Ação em Pensamento computacional - Jornada 3 - Github
+                Têm-se como principal objetivo conhecer e compreender os espaços de divulgação científica 
+        e tecnológica integram <b> Tecnologia, Arte e Cultura </b>. <br> Cenário propício para reflexões 
+        e novas descobertas entre os  saberes dos componentes curriculares <em> Arte e tecnologia.
+         </p>
+        <p> "A vivência em outros espaços de aprendizagem promove a aprendizagem significativa,
+        onde o estudante é levado a compreender as relações entre os componentes curriculares como Arte, <br>
+        inovações tecnológicas, subjetividade e o mundo do trabalho."</p>
+           </div>
+     <div class="lista">
+          <h3 class="titulo-centralizado"> Registros</h3>
+        <ul>
+          <li> Pensamento Computacional</li
+          <li> Componente curricular de Arte </li>
+        </ul>
+     </div>
+     </section>
+     </body>
+ </html>
